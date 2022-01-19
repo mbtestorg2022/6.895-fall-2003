@@ -1,0 +1,50 @@
+{
+  "term": "Fall",
+  "year": "2003",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Theory of Computation"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ]
+  ],
+  "legacy_uid": "22d87bc0-85eb-0231-1a93-69a6be6eb071",
+  "instructors": {
+    "content": [
+      "3656350a-fece-7ec0-6289-3fd0b7f71c0d",
+      "1650916a-e340-08ef-7cf3-e98b6241deec",
+      "74ba8744-1d8f-671a-18f6-f20d94f30c6a",
+      "aeec315e-6ae7-c219-8667-93d0858610cc"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "c19e8d19-c4f5-e7cd-7af2-ad4ade517785",
+    "website": "6-895-theory-of-parallel-systems-sma-5509-fall-2003"
+  },
+  "course_title": "Theory of Parallel Systems (SMA 5509)",
+  "course_description": "6.895\u00a0covers theoretical foundations of general-purpose parallel computing systems, from languages to architecture. The focus is on the algorithmic underpinnings of parallel systems. The topics for the class will vary depending on student interest, but will likely include multithreading, synchronization, race detection, load balancing, memory consistency, routing networks, message-routing algorithms, and VLSI layout theory. The class will emphasize randomized algorithms and probabilistic analysis, including high-probability arguments.\n\nThis course was also taught as part of the [Singapore-MIT Alliance](http://web.mit.edu/sma/) (SMA) programme as course number SMA 5509 (Theory of Parallel Systems).\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.895",
+  "course_image_thumbnail": {
+    "content": "1a7bcabd-eb5a-3ecd-4306-4db50ebdca58",
+    "website": "6-895-theory-of-parallel-systems-sma-5509-fall-2003"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Projects with Examples"
+  ],
+  "site_uid": "a023d1c8-f0cc-499a-b008-5f222cf4e485",
+  "title": "Course Metadata"
+}
