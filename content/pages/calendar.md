@@ -4,46 +4,343 @@ title: Calendar
 uid: 3dbcfcf0-4795-49ad-4e9f-c1eeae018a95
 ---
 
-| LEC # | TOPICS |
-| --- | --- |
-| {{< td-colspan 2 >}}**Week 1**{{< /td-colspan >}} ||
-| 1 | Dynamic Multithreading |
-| {{< td-colspan 2 >}}**Week 2**{{< /td-colspan >}} ||
-| 2 | Cilk, Matrix Multiplication, and Sorting |
-| 3 | Serial Performance and Caching |
-| {{< td-colspan 2 >}}**Week 3**{{< /td-colspan >}} ||
-| 4 | Determinacy Detection and Race Detection |
-| 5 | Consistency of the Memory Sub-System |
-| {{< td-colspan 2 >}}**Week 4**{{< /td-colspan >}} ||
-| 6 | Analyzing Space Bounds |
-| {{< td-colspan 2 >}}**Week 5**{{< /td-colspan >}} ||
-| 7 | Memory Contention |
-| 8 | Cilk Scheduler |
-| {{< td-colspan 2 >}}**Week 6**{{< /td-colspan >}} ||
-| 9 | Analysis of Cilk Scheduler |
-| 10 | Cilk Implementation |
-| {{< td-colspan 2 >}}**Week 7**{{< /td-colspan >}} ||
-| 11 | Project Presentations 1 |
-| {{< td-colspan 2 >}}**Week 8**{{< /td-colspan >}} ||
-| 12 | Project Presentations 2 |
-| 13 | Implementation of Memory Consistency |
-| {{< td-colspan 2 >}}**Week 9**{{< /td-colspan >}} ||
-| 14 | Competitive Snoopy Caching |
-| 15 | Snoopy Caching and Spin-Block Problem |
-| {{< td-colspan 2 >}}**Week 10**{{< /td-colspan >}} ||
-| 16 | Hypercubic Networks 1 |
-| 17 | Hypercubic Networks 2 |
-| {{< td-colspan 2 >}}**Week 11**{{< /td-colspan >}} ||
-| 18 | Hypercubic Networks 3 |
-| {{< td-colspan 2 >}}**Week 12**{{< /td-colspan >}} ||
-| 19 | Squish Routing |
-| 20 | Permuting Data on Parallel Disks |
-| {{< td-colspan 2 >}}**Week 13**{{< /td-colspan >}} ||
-| 21 | Sorting and Permuting |
-| 22 | Pick a Winner |
-| {{< td-colspan 2 >}}**Week 14**{{< /td-colspan >}} ||
-| 23 | Final Project Presentations |
-| 24 | Final Project Presentations (cont.) |
-| {{< td-colspan 2 >}}**Week 15**{{< /td-colspan >}} ||
-| 25 | Final Project Presentations (cont.) |
-| 26 | Final Project Presentations (cont.)  {{< br >}}Final Papers Due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Week 1**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Dynamic Multithreading
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Week 2**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Cilk, Matrix Multiplication, and Sorting
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Serial Performance and Caching
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Week 3**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Determinacy Detection and Race Detection
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Consistency of the Memory Sub-System
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Week 4**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Analyzing Space Bounds
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Week 5**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Memory Contention
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Cilk Scheduler
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Week 6**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Analysis of Cilk Scheduler
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Cilk Implementation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Week 7**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Project Presentations 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Week 8**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Project Presentations 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Implementation of Memory Consistency
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Week 9**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Competitive Snoopy Caching
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Snoopy Caching and Spin-Block Problem
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Week 10**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Hypercubic Networks 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Hypercubic Networks 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Week 11**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Hypercubic Networks 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Week 12**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Squish Routing
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Permuting Data on Parallel Disks
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Week 13**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Sorting and Permuting
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Pick a Winner
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Week 14**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Final Project Presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Final Project Presentations (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Week 15**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Final Project Presentations (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Final Project Presentations (cont.)  
+Final Papers Due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
